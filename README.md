@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👨‍💻 Software Developer | React & Data Science Enthusiast | Lifelong Learner
 
 <!--
 **mucke2701/mucke2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there! 👋 I'm a developer with a strong foundation in Mathematics and Data Science, passionate about creating impactful applications and continuously learning new technologies.
+
+- 🌟 Specialties: React, React Native, Python, and data-driven solutions.
+- 📚 Tools I Love: Expo, Firebase, Docker, SciPy, PyTorch, NumPy, and pandas.
+- 🛠️ Work Projects: Contributed to GeoNode (open-source GIS software), IAM automation with VBA and SQL, and data validation for project locations.
+- 🚀 Personal Projects: Building a mobile app for challenges and experimenting with a simple crypto trading bot.
+- 💻 Cloud Expertise: Experienced with Azure, Azure DevOps, and GitHub, having built numerous pipelines, Container Apps, and Terraform code.
+- 🎓 Academics: Pursuing a master’s degree while sharpening skills with Coursera courses in React and Data Science.
+- 🌍 Interests: Currently working with geospatial data but always exploring diverse fields like gaming, finance, housing, martial arts, fitness, and biohacking.
